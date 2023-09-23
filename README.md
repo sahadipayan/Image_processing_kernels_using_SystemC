@@ -3,11 +3,10 @@ Implementation of a high-level design of image processing kernels using SystemC 
 
 **********************************************Fire hirerarchy*********************************************
 File Structure ---->
-	|task2 
-	    |------> source_files
-	    |------> systemc-2.3.3 (You have to be inside this folder for running the codes for task 2 )  
-	    |------> Results (All the input and output images of tasks are stored here)
-	    |------> readme.txt  for instruction
+    |------> source_files
+    |------> systemc-2.3.3 (You have to be inside this folder for running the codes )  
+    |------> Results (All the input and output images of tasks are stored here)
+    |------> readme.txt  for instruction
 
 **********************************************System Requirement******************************************
 We had following system setup to run this code:
@@ -15,7 +14,7 @@ We had following system setup to run this code:
 2. SystemC 2.3.3
 3. OpenCV 3.4.4 
 
-**************************************run the codes for Task 2******************************************
+**************************************run the codes ******************************************
 
 The folder "systemc-2.3.3" contain all the necessary files.
 
