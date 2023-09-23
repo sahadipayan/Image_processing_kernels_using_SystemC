@@ -1,0 +1,3 @@
+/home/dsaha2/Downloads/systemc-2.3.3/build/CMakeFiles/rebuild_cache.dir
+/home/dsaha2/Downloads/systemc-2.3.3/build/CMakeFiles/edit_cache.dir
+/home/dsaha2/Downloads/systemc-2.3.3/build/CMakeFiles/SystemCOpenCV.dir
