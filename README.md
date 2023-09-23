@@ -4,7 +4,7 @@ Implementation of a high-level design of image processing kernels using SystemC 
 **********************************************Fire hirerarchy*********************************************
 File Structure ---->
 	|task2 
-	    |------> source_files (All source codes kept here for the ease of grader to review.This folder is additional and not required to run the task code itself )	
+	    |------> source_files
 	    |------> systemc-2.3.3 (You have to be inside this folder for running the codes for task 2 )  
 	    |------> Results (All the input and output images of tasks are stored here)
 	    |------> readme.txt  for instruction
